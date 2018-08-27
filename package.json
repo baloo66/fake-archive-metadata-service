@@ -1,0 +1,22 @@
+{
+  "name": "fake-archiv-metadata-service",
+  "version": "1.0.0",
+  "description": "REST service to simulate archiv metadata service",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \\\"Error no test specified!\\\" && exit 1"
+  },
+  "keywords": [
+    "RESTful",
+    "API"
+  ],
+  "author": "Alexander Eller",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.3"
+  }
+}
